@@ -1,4 +1,4 @@
-
+import json
 
 class ClothingStore:
     def _init_(self, inventory_file="inventory.json", sales_file="sales.json"):
